@@ -1,0 +1,4 @@
+tegro_money
+requests
+hmac
+pydantic
