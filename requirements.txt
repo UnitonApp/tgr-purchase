@@ -1,3 +1,4 @@
+setuptools
 tegro_money
 requests
 hmac
