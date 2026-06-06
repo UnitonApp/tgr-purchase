@@ -1,3 +1,7 @@
+> ⚠️ **Archived — legacy / reference, no longer maintained.** See active projects: [Tegro Money](https://tegro.money) · [all repositories](https://github.com/orgs/UnitonApp/repositories).
+
+---
+
 # tgr-purchase
 ## Plugin (For WordPress) for Purchasing TGR with tegro.money API
 
